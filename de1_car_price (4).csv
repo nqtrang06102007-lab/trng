@@ -1,0 +1,206 @@
+Car_Name,Fuel_Type,Aspiration,Car_Body,Drive_Wheel,Engine_Location,Wheelbase,Car_Length,Car_Width,Car_Height,Cylinder_Number,Engine_Size,Horse_Power,Price
+alfa-romero giulia,gas,std,convertible,rwd,front,88.6,168.8,64.1,48.8,four,130,111,13495
+alfa-romero stelvio,gas,std,convertible,rwd,front,88.6,168.8,64.1,48.8,four,130,111,16500
+alfa-romero Quadrifoglio,gas,std,hatchback,rwd,front,94.5,171.2,65.5,52.4,six,152,154,16500
+audi 100 ls,gas,std,sedan,fwd,front,99.8,176.6,66.2,54.3,four,109,102,13950
+audi 100ls,gas,std,sedan,4wd,front,99.4,176.6,66.4,54.3,five,136,115,17450
+audi fox,gas,std,sedan,fwd,front,99.8,177.3,66.3,53.1,five,136,110,15250
+audi 100ls,gas,std,sedan,fwd,front,105.8,192.7,71.4,55.7,five,136,110,17710
+audi 5000,gas,std,wagon,fwd,front,105.8,192.7,71.4,55.7,five,136,110,18920
+audi 4000,gas,turbo,sedan,fwd,front,105.8,192.7,71.4,55.9,five,131,140,23875
+audi 5000s (diesel),gas,turbo,hatchback,4wd,front,99.5,178.2,67.9,52,five,131,160,17859.167
+bmw 320i,gas,std,sedan,rwd,front,101.2,176.8,64.8,54.3,four,108,101,16430
+bmw 320i,gas,std,sedan,rwd,front,101.2,176.8,64.8,54.3,four,108,101,16925
+bmw x1,gas,std,sedan,rwd,front,101.2,176.8,64.8,54.3,six,164,121,20970
+bmw x3,gas,std,sedan,rwd,front,101.2,176.8,64.8,54.3,six,164,121,21105
+bmw z4,gas,std,sedan,rwd,front,103.5,189,66.9,55.7,six,164,121,24565
+bmw x4,gas,std,sedan,rwd,front,103.5,189,66.9,55.7,six,209,182,30760
+bmw x5,gas,std,sedan,rwd,front,103.5,193.8,67.9,53.7,six,209,182,41315
+bmw x3,gas,std,sedan,rwd,front,110,197,70.9,56.3,six,209,182,36880
+chevrolet impala,gas,std,hatchback,fwd,front,88.4,141.1,60.3,53.2,three,61,48,5151
+chevrolet monte carlo,gas,std,hatchback,fwd,front,94.5,155.9,63.6,52,four,90,70,6295
+chevrolet vega 2300,gas,std,sedan,fwd,front,94.5,158.8,63.6,52,four,90,70,6575
+dodge rampage,gas,std,hatchback,fwd,front,93.7,157.3,63.8,50.8,four,90,68,5572
+dodge challenger se,gas,std,hatchback,fwd,front,93.7,157.3,63.8,50.8,four,90,68,6377
+dodge d200,gas,turbo,hatchback,fwd,front,93.7,157.3,63.8,50.8,four,98,102,7957
+dodge monaco (sw),gas,std,hatchback,fwd,front,93.7,157.3,63.8,50.6,four,90,68,6229
+dodge colt hardtop,gas,std,sedan,fwd,front,93.7,157.3,63.8,50.6,four,90,68,6692
+dodge colt (sw),gas,std,sedan,fwd,front,93.7,157.3,63.8,50.6,four,90,68,7609
+dodge coronet custom,gas,turbo,sedan,fwd,front,93.7,157.3,63.8,50.6,four,98,102,8558
+dodge dart custom,gas,std,wagon,fwd,front,103.3,174.6,64.6,59.8,four,122,88,8921
+dodge coronet custom (sw),gas,turbo,hatchback,fwd,front,95.9,173.2,66.3,50.2,four,156,145,12964
+honda civic,gas,std,hatchback,fwd,front,86.6,144.6,63.9,50.8,four,92,58,6479
+honda civic cvcc,gas,std,hatchback,fwd,front,86.6,144.6,63.9,50.8,four,92,76,6855
+honda civic,gas,std,hatchback,fwd,front,93.7,150,64,52.6,four,79,60,5399
+honda accord cvcc,gas,std,hatchback,fwd,front,93.7,150,64,52.6,four,92,76,6529
+honda civic cvcc,gas,std,hatchback,fwd,front,93.7,150,64,52.6,four,92,76,7129
+honda accord lx,gas,std,sedan,fwd,front,96.5,163.4,64,54.5,four,92,76,7295
+honda civic 1500 gl,gas,std,wagon,fwd,front,96.5,157.1,63.9,58.3,four,92,76,7295
+honda accord,gas,std,hatchback,fwd,front,96.5,167.5,65.2,53.3,four,110,86,7895
+honda civic 1300,gas,std,hatchback,fwd,front,96.5,167.5,65.2,53.3,four,110,86,9095
+honda prelude,gas,std,sedan,fwd,front,96.5,175.4,65.2,54.1,four,110,86,8845
+honda accord,gas,std,sedan,fwd,front,96.5,175.4,62.5,54.1,four,110,86,10295
+honda civic,gas,std,sedan,fwd,front,96.5,175.4,65.2,54.1,four,110,101,12945
+honda civic (auto),gas,std,sedan,fwd,front,96.5,169.1,66,51,four,110,100,10345
+isuzu MU-X,gas,std,sedan,rwd,front,94.3,170.7,61.8,53.5,four,111,78,6785
+isuzu D-Max ,gas,std,sedan,fwd,front,94.5,155.9,63.6,52,four,90,70,8916.5
+isuzu D-Max V-Cross,gas,std,sedan,fwd,front,94.5,155.9,63.6,52,four,90,70,8916.5
+isuzu D-Max ,gas,std,hatchback,rwd,front,96,172.6,65.2,51.4,four,119,90,11048
+jaguar xj,gas,std,sedan,rwd,front,113,199.6,69.6,52.8,six,258,176,32250
+jaguar xf,gas,std,sedan,rwd,front,113,199.6,69.6,52.8,six,258,176,35550
+jaguar xk,gas,std,sedan,rwd,front,102,191.7,70.6,47.8,twelve,326,262,36000
+maxda rx3,gas,std,hatchback,fwd,front,93.1,159.1,64.2,54.1,four,91,68,5195
+maxda glc deluxe,gas,std,hatchback,fwd,front,93.1,159.1,64.2,54.1,four,91,68,6095
+mazda rx2 coupe,gas,std,hatchback,fwd,front,93.1,159.1,64.2,54.1,four,91,68,6795
+mazda rx-4,gas,std,sedan,fwd,front,93.1,166.8,64.2,54.1,four,91,68,6695
+mazda glc deluxe,gas,std,sedan,fwd,front,93.1,166.8,64.2,54.1,four,91,68,7395
+mazda 626,gas,std,hatchback,rwd,front,95.3,169,65.7,49.6,two,70,101,10945
+mazda glc,gas,std,hatchback,rwd,front,95.3,169,65.7,49.6,two,70,101,11845
+mazda rx-7 gs,gas,std,hatchback,rwd,front,95.3,169,65.7,49.6,two,70,101,13645
+mazda glc 4,gas,std,hatchback,rwd,front,95.3,169,65.7,49.6,two,80,135,15645
+mazda 626,gas,std,hatchback,fwd,front,98.8,177.8,66.5,53.7,four,122,84,8845
+mazda glc custom l,gas,std,sedan,fwd,front,98.8,177.8,66.5,55.5,four,122,84,8495
+mazda glc custom,gas,std,hatchback,fwd,front,98.8,177.8,66.5,53.7,four,122,84,10595
+mazda rx-4,gas,std,sedan,fwd,front,98.8,177.8,66.5,55.5,four,122,84,10245
+mazda glc deluxe,diesel,std,sedan,fwd,front,98.8,177.8,66.5,55.5,four,122,64,10795
+mazda 626,gas,std,hatchback,fwd,front,98.8,177.8,66.5,55.5,four,122,84,11245
+mazda glc,gas,std,sedan,rwd,front,104.9,175,66.1,54.4,four,140,120,18280
+mazda rx-7 gs,diesel,std,sedan,rwd,front,104.9,175,66.1,54.4,four,134,72,18344
+buick electra 225 custom,diesel,turbo,sedan,rwd,front,110,190.9,70.3,56.5,five,183,123,25552
+buick century luxus (sw),diesel,turbo,wagon,rwd,front,110,190.9,70.3,58.7,five,183,123,28248
+buick century,diesel,turbo,hardtop,rwd,front,106.7,187.5,70.3,54.9,five,183,123,28176
+buick skyhawk,diesel,turbo,sedan,rwd,front,115.6,202.6,71.7,56.3,five,183,123,31600
+buick opel isuzu deluxe,gas,std,sedan,rwd,front,115.6,202.6,71.7,56.5,eight,234,155,34184
+buick skylark,gas,std,convertible,rwd,front,96.6,180.3,70.5,50.8,eight,234,155,35056
+buick century special,gas,std,sedan,rwd,front,120.9,208.1,71.7,56.7,eight,308,184,40960
+buick regal sport coupe (turbo),gas,std,hardtop,rwd,front,112,199.2,72,55.4,eight,304,184,45400
+mercury cougar,gas,turbo,hatchback,rwd,front,102.7,178.4,68,54.8,four,140,175,16503
+mitsubishi mirage,gas,std,hatchback,fwd,front,93.7,157.3,64.4,50.8,four,92,68,5389
+mitsubishi lancer,gas,std,hatchback,fwd,front,93.7,157.3,64.4,50.8,four,92,68,6189
+mitsubishi outlander,gas,std,hatchback,fwd,front,93.7,157.3,64.4,50.8,four,92,68,6669
+mitsubishi g4,gas,turbo,hatchback,fwd,front,93,157.3,63.8,50.8,four,98,102,7689
+mitsubishi mirage g4,gas,turbo,hatchback,fwd,front,96.3,173,65.4,49.4,four,110,116,9959
+mitsubishi g4,gas,std,hatchback,fwd,front,96.3,173,65.4,49.4,four,122,88,8499
+mitsubishi outlander,gas,turbo,hatchback,fwd,front,95.9,173.2,66.3,50.2,four,156,145,12629
+mitsubishi g4,gas,turbo,hatchback,fwd,front,95.9,173.2,66.3,50.2,four,156,145,14869
+mitsubishi mirage g4,gas,turbo,hatchback,fwd,front,95.9,173.2,66.3,50.2,four,156,145,14489
+mitsubishi montero,gas,std,sedan,fwd,front,96.3,172.4,65.4,51.6,four,122,88,6989
+mitsubishi pajero,gas,std,sedan,fwd,front,96.3,172.4,65.4,51.6,four,122,88,8189
+mitsubishi outlander,gas,turbo,sedan,fwd,front,96.3,172.4,65.4,51.6,four,110,116,9279
+mitsubishi mirage g4,gas,std,sedan,fwd,front,96.3,172.4,65.4,51.6,four,110,116,9279
+Nissan versa,gas,std,sedan,fwd,front,94.5,165.3,63.8,54.5,four,97,69,5499
+nissan gt-r,diesel,std,sedan,fwd,front,94.5,165.3,63.8,54.5,four,103,55,7099
+nissan rogue,gas,std,sedan,fwd,front,94.5,165.3,63.8,54.5,four,97,69,6649
+nissan latio,gas,std,sedan,fwd,front,94.5,165.3,63.8,54.5,four,97,69,6849
+nissan titan,gas,std,wagon,fwd,front,94.5,170.2,63.8,53.5,four,97,69,7349
+nissan leaf,gas,std,sedan,fwd,front,94.5,165.3,63.8,54.5,four,97,69,7299
+nissan juke,gas,std,hatchback,fwd,front,94.5,165.6,63.8,53.3,four,97,69,7799
+nissan latio,gas,std,sedan,fwd,front,94.5,165.3,63.8,54.5,four,97,69,7499
+nissan note,gas,std,wagon,fwd,front,94.5,170.2,63.8,53.5,four,97,69,7999
+nissan clipper,gas,std,hardtop,fwd,front,95.1,162.4,63.8,53.3,four,97,69,8249
+nissan rogue,gas,std,hatchback,fwd,front,97.2,173.4,65.2,54.7,four,120,97,8949
+nissan nv200,gas,std,sedan,fwd,front,97.2,173.4,65.2,54.7,four,120,97,9549
+nissan dayz,gas,std,sedan,fwd,front,100.4,181.7,66.5,55.1,six,181,152,13499
+nissan fuga,gas,std,wagon,fwd,front,100.4,184.6,66.5,56.1,six,181,152,14399
+nissan otti,gas,std,sedan,fwd,front,100.4,184.6,66.5,55.1,six,181,152,13499
+nissan teana,gas,std,hatchback,rwd,front,91.3,170.7,67.9,49.7,six,181,160,17199
+nissan kicks,gas,turbo,hatchback,rwd,front,91.3,170.7,67.9,49.7,six,181,200,19699
+nissan clipper,gas,std,hatchback,rwd,front,99.2,178.5,67.9,49.7,six,181,160,18399
+peugeot 504,gas,std,sedan,rwd,front,107.9,186.7,68.4,56.7,four,120,97,11900
+peugeot 304,diesel,turbo,sedan,rwd,front,107.9,186.7,68.4,56.7,four,152,95,13200
+peugeot 504 (sw),gas,std,wagon,rwd,front,114.2,198.9,68.4,58.7,four,120,97,12440
+peugeot 504,diesel,turbo,wagon,rwd,front,114.2,198.9,68.4,58.7,four,152,95,13860
+peugeot 504,gas,std,sedan,rwd,front,107.9,186.7,68.4,56.7,four,120,95,15580
+peugeot 604sl,diesel,turbo,sedan,rwd,front,107.9,186.7,68.4,56.7,four,152,95,16900
+peugeot 504,gas,std,wagon,rwd,front,114.2,198.9,68.4,56.7,four,120,95,16695
+peugeot 505s turbo diesel,diesel,turbo,wagon,rwd,front,114.2,198.9,68.4,58.7,four,152,95,17075
+peugeot 504,gas,std,sedan,rwd,front,107.9,186.7,68.4,56.7,four,120,97,16630
+peugeot 504,diesel,turbo,sedan,rwd,front,107.9,186.7,68.4,56.7,four,152,95,17950
+peugeot 604sl,gas,turbo,sedan,rwd,front,108,186.7,68.3,56,four,134,142,18150
+plymouth fury iii,gas,std,hatchback,fwd,front,93.7,157.3,63.8,50.8,four,90,68,5572
+plymouth cricket,gas,turbo,hatchback,fwd,front,93.7,157.3,63.8,50.8,four,98,102,7957
+plymouth fury iii,gas,std,hatchback,fwd,front,93.7,157.3,63.8,50.6,four,90,68,6229
+plymouth satellite custom (sw),gas,std,sedan,fwd,front,93.7,167.3,63.8,50.8,four,90,68,6692
+plymouth fury gran sedan,gas,std,sedan,fwd,front,93.7,167.3,63.8,50.8,four,98,68,7609
+plymouth valiant,gas,std,wagon,fwd,front,103.3,174.6,64.6,59.8,four,122,88,8921
+plymouth duster,gas,turbo,hatchback,rwd,front,95.9,173.2,66.3,50.2,four,156,145,12764
+porsche macan,gas,std,hatchback,rwd,front,94.5,168.9,68.3,50.2,four,151,143,22018
+porcshce panamera,gas,std,hardtop,rwd,rear,89.5,168.9,65,51.6,six,194,207,32528
+porsche cayenne,gas,std,hardtop,rwd,rear,89.5,168.9,65,51.6,six,194,207,34028
+porsche boxter,gas,std,convertible,rwd,rear,89.5,168.9,65,51.6,six,194,207,37028
+porsche cayenne,gas,std,hatchback,rwd,front,98.4,175.7,72.3,50.5,eight,203,288,31400.5
+renault 12tl,gas,std,wagon,fwd,front,96.1,181.5,66.5,55.2,four,132,90,9295
+renault 5 gtl,gas,std,hatchback,fwd,front,96.1,176.8,66.6,50.5,four,132,90,9895
+saab 99e,gas,std,hatchback,fwd,front,99.1,186.6,66.5,56.1,four,121,110,11850
+saab 99le,gas,std,sedan,fwd,front,99.1,186.6,66.5,56.1,four,121,110,12170
+saab 99le,gas,std,hatchback,fwd,front,99.1,186.6,66.5,56.1,four,121,110,15040
+saab 99gle,gas,std,sedan,fwd,front,99.1,186.6,66.5,56.1,four,121,110,15510
+saab 99gle,gas,turbo,hatchback,fwd,front,99.1,186.6,66.5,56.1,four,121,160,18150
+saab 99e,gas,turbo,sedan,fwd,front,99.1,186.6,66.5,56.1,four,121,160,18620
+subaru,gas,std,hatchback,fwd,front,93.7,156.9,63.4,53.7,four,97,69,5118
+subaru dl,gas,std,hatchback,fwd,front,93.7,157.9,63.6,53.7,four,108,73,7053
+subaru dl,gas,std,hatchback,4wd,front,93.3,157.3,63.8,55.7,four,108,73,7603
+subaru,gas,std,sedan,fwd,front,97.2,172,65.4,52.5,four,108,82,7126
+subaru brz,gas,std,sedan,fwd,front,97.2,172,65.4,52.5,four,108,82,7775
+subaru baja,gas,std,sedan,fwd,front,97.2,172,65.4,52.5,four,108,94,9960
+subaru r1,gas,std,sedan,4wd,front,97,172,65.4,54.3,four,108,82,9233
+subaru r2,gas,turbo,sedan,4wd,front,97,172,65.4,54.3,four,108,111,11259
+subaru trezia,gas,std,wagon,fwd,front,97,173.5,65.4,53,four,108,82,7463
+subaru tribeca,gas,std,wagon,fwd,front,97,173.5,65.4,53,four,108,94,10198
+subaru dl,gas,std,wagon,4wd,front,96.9,173.6,65.4,54.9,four,108,82,8013
+subaru dl,gas,turbo,wagon,4wd,front,96.9,173.6,65.4,54.9,four,108,111,11694
+toyota corona mark ii,gas,std,hatchback,fwd,front,95.7,158.7,63.6,54.5,four,92,62,5348
+toyota corona,gas,std,hatchback,fwd,front,95.7,158.7,63.6,54.5,four,92,62,6338
+toyota corolla 1200,gas,std,hatchback,fwd,front,95.7,158.7,63.6,54.5,four,92,62,6488
+toyota corona hardtop,gas,std,wagon,fwd,front,95.7,169.7,63.6,59.1,four,92,62,6918
+toyota corolla 1600 (sw),gas,std,wagon,4wd,front,95.7,169.7,63.6,59.1,four,92,62,7898
+toyota carina,gas,std,wagon,4wd,front,95.7,169.7,63.6,59.1,four,92,62,8778
+toyota mark ii,gas,std,sedan,fwd,front,95.7,166.3,64.4,53,four,98,70,6938
+toyota corolla 1200,gas,std,hatchback,fwd,front,95.7,166.3,64.4,52.8,four,98,70,7198
+toyota corona,diesel,std,sedan,fwd,front,95.7,166.3,64.4,53,four,110,56,7898
+toyota corolla,diesel,std,hatchback,fwd,front,95.7,166.3,64.4,52.8,four,110,56,7788
+toyota corona,gas,std,sedan,fwd,front,95.7,166.3,64.4,53,four,98,70,7738
+toyota corolla,gas,std,hatchback,fwd,front,95.7,166.3,64.4,52.8,four,98,70,8358
+toyota mark ii,gas,std,sedan,fwd,front,95.7,166.3,64.4,52.8,four,98,70,9258
+toyota corolla liftback,gas,std,sedan,rwd,front,94.5,168.7,64,52.6,four,98,70,8058
+toyota corona,gas,std,hatchback,rwd,front,94.5,168.7,64,52.6,four,98,70,8238
+toyota celica gt liftback,gas,std,sedan,rwd,front,94.5,168.7,64,52.6,four,98,112,9298
+toyota corolla tercel,gas,std,hatchback,rwd,front,94.5,168.7,64,52.6,four,98,112,9538
+toyota corona liftback,gas,std,hardtop,rwd,front,98.4,176.2,65.6,52,four,146,116,8449
+toyota corolla,gas,std,hardtop,rwd,front,98.4,176.2,65.6,52,four,146,116,9639
+toyota starlet,gas,std,hatchback,rwd,front,98.4,176.2,65.6,52,four,146,116,9989
+toyota tercel,gas,std,hardtop,rwd,front,98.4,176.2,65.6,52,four,146,116,11199
+toyota corolla,gas,std,hatchback,rwd,front,98.4,176.2,65.6,52,four,146,116,11549
+toyota cressida,gas,std,convertible,rwd,front,98.4,176.2,65.6,53,four,146,116,17669
+toyota corolla,gas,std,sedan,fwd,front,102.4,175.6,66.5,54.9,four,122,92,8948
+toyota celica gt,diesel,turbo,sedan,fwd,front,102.4,175.6,66.5,54.9,four,110,73,10698
+toyota corona,gas,std,hatchback,fwd,front,102.4,175.6,66.5,53.9,four,122,92,9988
+toyota corolla,gas,std,sedan,fwd,front,102.4,175.6,66.5,54.9,four,122,92,10898
+toyota mark ii,gas,std,hatchback,fwd,front,102.4,175.6,66.5,53.9,four,122,92,11248
+toyota corolla liftback,gas,std,hatchback,rwd,front,102.9,183.5,67.7,52,six,171,161,16558
+toyota corona,gas,std,hatchback,rwd,front,102.9,183.5,67.7,52,six,171,161,15998
+toyota starlet,gas,std,sedan,rwd,front,104.5,187.8,66.5,54.1,six,171,156,15690
+toyouta tercel,gas,std,wagon,rwd,front,104.5,187.8,66.5,54.1,six,161,156,15750
+vokswagen rabbit,diesel,std,sedan,fwd,front,97.3,171.7,65.5,55.7,four,97,52,7775
+volkswagen 1131 deluxe sedan,gas,std,sedan,fwd,front,97.3,171.7,65.5,55.7,four,109,85,7975
+volkswagen model 111,diesel,std,sedan,fwd,front,97.3,171.7,65.5,55.7,four,97,52,7995
+volkswagen type 3,gas,std,sedan,fwd,front,97.3,171.7,65.5,55.7,four,109,85,8195
+volkswagen 411 (sw),gas,std,sedan,fwd,front,97.3,171.7,65.5,55.7,four,109,85,8495
+volkswagen super beetle,diesel,turbo,sedan,fwd,front,97.3,171.7,65.5,55.7,four,97,68,9495
+volkswagen dasher,gas,std,sedan,fwd,front,97.3,171.7,65.5,55.7,four,109,100,9995
+vw dasher,gas,std,convertible,fwd,front,94.5,159.3,64.2,55.6,four,109,90,11595
+vw rabbit,gas,std,hatchback,fwd,front,94.5,165.7,64,51.4,four,109,90,9980
+volkswagen rabbit,gas,std,sedan,fwd,front,100.4,180.2,66.9,55.1,five,136,110,13295
+volkswagen rabbit custom,diesel,turbo,sedan,fwd,front,100.4,180.2,66.9,55.1,four,97,68,13845
+volkswagen dasher,gas,std,wagon,fwd,front,100.4,183.1,66.9,55.1,four,109,88,12290
+volvo 145e (sw),gas,std,sedan,rwd,front,104.3,188.8,67.2,56.2,four,141,114,12940
+volvo 144ea,gas,std,wagon,rwd,front,104.3,188.8,67.2,57.5,four,141,114,13415
+volvo 244dl,gas,std,sedan,rwd,front,104.3,188.8,67.2,56.2,four,141,114,15985
+volvo 245,gas,std,wagon,rwd,front,104.3,188.8,67.2,57.5,four,141,114,16515
+volvo 264gl,gas,turbo,sedan,rwd,front,104.3,188.8,67.2,56.2,four,130,162,18420
+volvo diesel,gas,turbo,wagon,rwd,front,104.3,188.8,67.2,57.5,four,130,162,18950
+volvo 145e (sw),gas,std,sedan,rwd,front,109.1,188.8,68.9,55.5,four,141,114,16845
+volvo 144ea,gas,turbo,sedan,rwd,front,109.1,188.8,68.8,55.5,four,141,160,19045
+volvo 244dl,gas,std,sedan,rwd,front,109.1,188.8,68.9,55.5,six,173,134,21485
+volvo 246,diesel,turbo,sedan,rwd,front,109.1,188.8,68.9,55.5,six,145,106,22470
+volvo 264gl,gas,turbo,sedan,rwd,front,109.1,188.8,68.9,55.5,four,141,114,22625
